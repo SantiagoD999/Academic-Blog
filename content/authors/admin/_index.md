@@ -3,27 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Sc. in Economics with a focus on Economic Theory
+    institution: Pontificia Universidad Javeriana
+    year: 2022
+  - course: M.Sc. in Economics
+    institution: Pontificia Universidad Javeriana
+    year: Present
+    
 email: ""
-first_name: Alice
+first_name: Santiago
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Predictive Analytics
+- Forecasting Economic Time Series
+- Teaching
+last_name: Díaz Espitia
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Pontificia Universidad Javeriana
+  url: https://www.javeriana.edu.co/
+role: Master's in Economics Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,18 +37,18 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SantiagoD999
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/santiago-d%C3%ADaz-espitia-abb2661b5/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV (English).pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Santiago Díaz Espitia
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an economist from Bogotá D.C., Colombia; I am 24 years old.
 {style="text-align: justify;"}
