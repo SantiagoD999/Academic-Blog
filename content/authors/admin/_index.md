@@ -50,5 +50,5 @@ superuser: true
 title: Santiago Díaz Espitia
 ---
 
-I am an economist from Bogotá D.C., Colombia; I am 24 years old.
+I am an economist from Bogotá D.C., Colombia; I am 24 years old with experience in Macroeconomic and Data Analysis.
 {style="text-align: justify;"}
